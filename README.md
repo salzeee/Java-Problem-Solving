@@ -1,1 +1,2 @@
-# Java-Problem-Solving
+# Problem Solving for Maharishi University Admission Test
+This repository contains my solutions to Java programming problems that I solved as part of the admission test for Maharishi University in Iowa. These problems were designed to assess my problem-solving skills and proficiency in Java programming. Each problem is presented as a separate Java file, accompanied by a description and my solution.
